@@ -1,0 +1,9 @@
+.vs
+.nuget
+packages
+bin/
+obj/
+*.user
+*.dbmdl
+*.vspscc
+*.tfignore
